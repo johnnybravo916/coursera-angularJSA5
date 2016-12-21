@@ -113,7 +113,9 @@ h3.menu-item-title {
 }
 /* END SINGLE CATEGORY PAGE */
 
-
+.alert{margin:5px 0 10px;font-size:12px;padding:5px}
+.form-group{margin-bottom:20px}
+.group{display:block;margin-bottom:10px;}
 /********** Large devices only **********/
 @media (min-width: 1200px) {
   .container .jumbotron {
